@@ -1,13 +1,3 @@
-# Node.js
-node_modules/
+.venv/
 
-# Build output
-dist/
-build/
-
-# IDE
 .vscode/
-.idea/
-
-# Logs
-*.log
